@@ -1,0 +1,6 @@
+{
+  "name": "CarbonLens - Quản lý Dữ liệu Phát thải & Hồ sơ Carbon Truy xuất",
+  "description": "Nền tảng mô phỏng kiểm kê phát thải khí nhà kính Phạm vi 1 và 2, truy xuất nguồn gốc chứng từ và quản lý hồ sơ tín chỉ carbon theo nguyên tắc minh bạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
